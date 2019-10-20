@@ -32,7 +32,7 @@ In American Ten-Pin Bowling a whole game or line consits of ten frames. In each 
 *Miss*
 - If a player misses all the pins it's marked by a '**-**' and will be given 0 points for that roll.
 
-##### Final frame
+#### Final frame
 The final frame or 10. frame in bowling is a special round where the player can be given extra rolls.
 - If you roll a strike in the first shot of the 10th frame, you get 2 more shots.
 - If you roll a spare in the first two shots of the 10th frame, you get 1 more shot.
